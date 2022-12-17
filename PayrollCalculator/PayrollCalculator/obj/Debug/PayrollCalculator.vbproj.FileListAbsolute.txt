@@ -1,0 +1,21 @@
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\PayrollCalculator\PayrollCalculator\bin\Debug\PayrollCalculator.exe.config
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\PayrollCalculator\PayrollCalculator\bin\Debug\PayrollCalculator.exe
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\PayrollCalculator\PayrollCalculator\bin\Debug\PayrollCalculator.pdb
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\PayrollCalculator\PayrollCalculator\bin\Debug\PayrollCalculator.xml
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\PayrollCalculator\PayrollCalculator\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\PayrollCalculator\PayrollCalculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.vbproj.GenerateResource.Cache
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.exe
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.xml
+C:\Users\QCU\Documents\Visual Studio 2012\Projects\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.pdb
+C:\Users\QCU\Documents\PF101\PayrollCalculator\PayrollCalculator\bin\Debug\PayrollCalculator.exe.config
+C:\Users\QCU\Documents\PF101\PayrollCalculator\PayrollCalculator\bin\Debug\PayrollCalculator.exe
+C:\Users\QCU\Documents\PF101\PayrollCalculator\PayrollCalculator\bin\Debug\PayrollCalculator.pdb
+C:\Users\QCU\Documents\PF101\PayrollCalculator\PayrollCalculator\bin\Debug\PayrollCalculator.xml
+C:\Users\QCU\Documents\PF101\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\QCU\Documents\PF101\PayrollCalculator\PayrollCalculator\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\QCU\Documents\PF101\PayrollCalculator\PayrollCalculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\QCU\Documents\PF101\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.vbproj.GenerateResource.Cache
+C:\Users\QCU\Documents\PF101\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.exe
+C:\Users\QCU\Documents\PF101\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.xml
+C:\Users\QCU\Documents\PF101\PayrollCalculator\PayrollCalculator\obj\Debug\PayrollCalculator.pdb
